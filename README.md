@@ -45,4 +45,3 @@ The tool typically processes time-series data from an instrument.
     *   Soft Upper Limit: `K3 + (Multiplier * IKA)` (e.g., `K3 + 4.5 * IKA`)
 4.  **Hard Limit Calculation:**
     *   These are based on user-provided (Design) values.
-5.  **Visualization & Reporting:** Generates plots and summary tables as shown in the examples below.
